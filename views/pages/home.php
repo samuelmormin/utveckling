@@ -57,6 +57,57 @@
     <h2>[ NOTRE PROCESSUS DE CRÉATION ]</h2>
     <a class="button-savoir-plus" href="#">EN SAVOIR PLUS</a>
 </section>
+<section class="home-tools">
+   <h2>[ NOS OUTILS ]</h2>
+    <div class="tools-description">
+        <img src="assets/img/html_icon.png" alt="html_icon">
+        <h4>HTML 5</h4>
+    </div>
+    <div class="tools-description">
+        <img src="assets/img/css_icon.png" alt="html_icon">
+        <h4>CSS 3 | STYLUS </h4>
+    </div>
+    <div class="tools-description">
+        <img src="assets/img/javascript_icon.png" alt="html_icon">
+        <h4>JAVASCRIPT | JQUERY</h4>
+    </div>
+    <div class="tools-description">
+        <img src="assets/img/php_icon.png" alt="html_icon">
+        <h4>PHP</h4>
+    </div>
+    <div class="tools-description">
+        <img src="assets/img/photoshop_icon.png" alt="html_icon">
+        <h4>PHOTOSHOP</h4>
+    </div>
+    <div class="tools-description">
+        <img src="assets/img/adobe_illustrator_icon.png" alt="html_icon">
+        <h4>ILLUSTRATOR</h4>
+    </div>
+    <div class="tools-description">
+        <img src="assets/img/after_effects_icon.png" alt="html_icon">
+        <h4>AFTER EFFECTS</h4>
+    </div>
+    <div class="tools-description">
+        <img src="assets/img/adobe_indesign_icon.png" alt="html_icon">
+        <h4>INDESIGN</h4>
+    </div>
+    <div class="tools-description">
+        <img src="assets/img/sketch_icon.png" alt="html_icon">
+        <h4>SKETCH</h4>
+    </div>
+    <div class="tools-description">
+        <img src="assets/img/wordpress_icon.png" alt="html_icon">
+        <h4>WORDPRESS</h4>
+    </div>
+    <div class="tools-description">
+        <img src="assets/img/gulp_icon.png" alt="html_icon">
+        <h4>GULP</h4>
+    </div>
+    <div class="tools-description">
+        <img src="assets/img/dreamweaver_icon.png" alt="html_icon">
+        <h4>DREAMWEAVER</h4>
+    </div>
+</section>
 <section class="home-projets">
     <h2>[ NOS DERNIES PROJETS ]</h2>
     <div class="project-block">
