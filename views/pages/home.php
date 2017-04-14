@@ -134,9 +134,6 @@
         de qualité et optimisés afin de leur garantir un bon retour sur investissement.
     </p>
 </section>
-<section class="home-outils">
-    
-</section>
 <section class="home-contacts">
     
 </section>

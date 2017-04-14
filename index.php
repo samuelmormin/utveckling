@@ -10,9 +10,17 @@ if($q === '' || $q === 'home')
 {
     $page = 'home';
 }
+else if($q === 'services')
+{
+    $page = 'services';
+}
 else if($q === 'contact')
 {
     $page = 'contact';
+}
+else if($q === 'grid')
+{
+    $page = 'grid';
 }
 else
 {
