@@ -22,6 +22,10 @@ else if($q === 'grid')
 {
     $page = 'grid';
 }
+else if($q === 'menu')
+{
+    $page = 'menu';
+}
 else
 {
     $page = '404';

@@ -11,4 +11,14 @@
 </head>
 <body>
     <header>
+        <div class="header">
+            <img class="logo" src="assets/img/logo_utveckling.png" alt="Utveckling.fr">
+            <div class="menu-hamburger-container">
+                <img class="menu-hamburger" src="assets/img/menu_icon.png" alt="Menu">
+                MENU
+            </div>
+        </div>
+        <?php
+            include 'views/partials/menu.php';
+        ?>
     </header>

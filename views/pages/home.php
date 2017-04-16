@@ -1,11 +1,4 @@
 <section class="home-intro-section">
-    <div class="header">
-        <img class="logo" src="assets/img/logo_utveckling.png" alt="Utveckling.fr">
-        <div class="menu-button">
-            <!--<div class="clearboth"></div>-->
-            <img src="assets/img/menu_icon.png" alt="Menu">
-        </div>
-    </div>
     <div class="page-intro">
         <h1>
             UTVECKLING VOUS ACCOMPAGNE DANS LA
@@ -119,21 +112,25 @@
         <a class="button-savoir-plus" href="#">VOIR CE PROJET</a>
     </div>    
 </section>
-<section class="home-apropos">
-    <h2>[ À PROPOS DE NOUS ]</h2>
-    <p>
-        Utveckling a été fondée par deux jeunes entrepeneurs en veille et en évolution constante
-        <br>
-        dans le domaine des technologies de l’information  de la communication.
-        <br><br>
-        Nous sommes une entreprise à taille humaine et nos clients le ressentent dans notre démarche
-        <br>
-        et notre volonté de les accompagner dans toutes les étapes d’un projet, de l’élaboration du cahier des charges à la réalisation.
-        <br><br>
-        Nous avons pour objectif de fournir à nos clients des projets sur-mesure, 
-        de qualité et optimisés afin de leur garantir un bon retour sur investissement.
-    </p>
-</section>
+<div class="row">
+    <section class="col col-8 home-apropos">
+        <h2>[ À PROPOS ]</h2>
+        <p>
+            Utveckling a été fondée par deux jeunes entrepeneurs en veille et en évolution constante
+            
+            dans le domaine des technologies de l’information  de la communication.
+        
+            Nous sommes une entreprise à taille humaine et nos clients le ressentent dans notre démarche
+         
+            et notre volonté de les accompagner dans toutes les étapes d’un projet, de l’élaboration du cahier des charges à la réalisation.
+        
+            Nous avons pour objectif de fournir à nos clients des projets sur-mesure, 
+            de qualité et optimisés afin de leur garantir un bon retour sur investissement.
+        </p>
+        <a class="button" href="#">EN SAVOIR PLUS</a>
+
+    </section>
+</div>
 <section class="home-contacts">
     
 </section>
