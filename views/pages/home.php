@@ -48,7 +48,11 @@
 </section>
 <section class="home-processus">
     <h2>[ NOTRE PROCESSUS DE CRÉATION ]</h2>
-    <a class="button-savoir-plus" href="#">EN SAVOIR PLUS</a>
+    <div class="process_elements">
+        <img src="assets/img/image_processus_creation.png" alt="process_creation">
+        <p>Pour vous fournir un site à forte valeur ajoutée nous interprétons vos besoins au travers d’un processus simple pour ensuite déterminer vos axes stratégique et vous proposer des solutions novatrices dans votre projet digital</p>
+        <a class="button-savoir-plus" href="#">EN SAVOIR PLUS</a>
+    </div>
 </section>
 <section class="home-tools">
    <h2>[ NOS OUTILS ]</h2>
@@ -127,10 +131,16 @@
             Nous avons pour objectif de fournir à nos clients des projets sur-mesure, 
             de qualité et optimisés afin de leur garantir un bon retour sur investissement.
         </p>
+        <img src="assets/img/cup_kyle.png" alt="cup_coffee_kyle">
         <a class="button" href="#">EN SAVOIR PLUS</a>
 
     </section>
 </div>
+<div class="row">
 <section class="home-contacts">
-    
+    <section class="col col-8 home-contact">
+        <h2>[ NOUS CONTACTER ]</h2>
+        
+    </section>
 </section>
+</div>

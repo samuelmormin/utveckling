@@ -14,6 +14,10 @@ else if($q === 'services')
 {
     $page = 'services';
 }
+else if($q === 'process')
+{
+    $page = 'process';
+}
 else if($q === 'contact')
 {
     $page = 'contact';
