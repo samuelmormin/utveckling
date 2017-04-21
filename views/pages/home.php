@@ -131,7 +131,6 @@
             Nous avons pour objectif de fournir à nos clients des projets sur-mesure, 
             de qualité et optimisés afin de leur garantir un bon retour sur investissement.
         </p>
-        <img src="assets/img/cup_kyle.png" alt="cup_coffee_kyle">
         <a class="button" href="#">EN SAVOIR PLUS</a>
 
     </section>
