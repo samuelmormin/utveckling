@@ -11,6 +11,10 @@ $keyframe-name = hide-menu
 //        visibility visible
 //    to
 //        visibility hidden
+
+ul-firstchild()
+    &:first-child
+        padding 0 0 0 0
         
 .hidden
     visibility hidden
@@ -30,31 +34,59 @@ $keyframe-name = hide-menu
     
     .menu
         display inline-block
-        width 50%
+        width 700px
         height 100vh
-        background-color #A899B7
-        margin-left 50%
-        transform translateX(100%)
+        background-color #FEFEFE
+        margin-left 100%
+        transform translateX(0)
         opacity 0
         transition all 0.6s ease-in 0.6s
+        line-height 100vh
+        font-size 0
+        text-align left
+        vertical-align top
         
-        ul
-            display block
-            width 440px
-            height 510px
+        .menu-animation
+            width 300px
+            height 100vh
+            display inline-block
+            background-color #A899B7
+            text-align center
+            vertical-align top
+            padding 0 100px
+        
+        .menu-ul-container
+            width 400px
+            height 100vh
+            display inline-block
+            background-color #FEFEFE
+            text-align center
+            line-height 100vh
+            vertical-align middle
+        
+        .menu-list
+            display inline-block
             margin 0 auto
-            background-position left bottom
-            background-image url('/utveckling/assets/img/background_menu.png')
-            color white
-            transform translateY(-100%)
+            color #2D3049
+            vertical-align middle
+            transform translateY(0%)
             transition transform 0.5s ease-in 0.4s
             
             li
-                padding 30px 0 0 40px
+                display block
+                width 100%
+                padding-top 30px
+                font-size 24px
+                line-height 36px
                 font-weight 900
+                text-align right
+                ul-firstchild()
                 
                 a
+                    display block
                     text-decoration none
+                    padding-top 3Opx
+                    //display block
                     
 .close
     position absolute

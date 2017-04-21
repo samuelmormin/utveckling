@@ -24,8 +24,8 @@ menu_button.addEventListener("click", function(e)
         menu_container.style.opacity    = '0';        
         
         // Set the position of menu put it out of screen
-        menu.style.transform            = 'translateX(100%)';
-        menu_ul.style.transform         = 'translateY(-100%)';
+        menu.style.transform            = 'translateX(0)';
+        //menu_ul.style.transform         = 'translateY(100%)';
 
         menu_display_state              = false;
     }
@@ -43,8 +43,8 @@ menu_button.addEventListener("click", function(e)
         menu_ul.style.transition        = 'transform 0.6s ease-in 0.6s';
         
         // Set the position of menu put it on the screen
-        menu.style.transform            = 'translateX(0%)';
-        menu_ul.style.transform         = 'translateY(0%)';
+        menu.style.transform            = 'translateX(-700px)';
+        //menu_ul.style.transform         = 'translateY(0%)';
 
         menu_display_state              = true;
     }
