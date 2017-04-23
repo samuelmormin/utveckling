@@ -118,28 +118,29 @@
 </section>
 <div class="row">
     <section class="col col-8 home-apropos">
-        <h2>[ À PROPOS ]</h2>
-        <p>
-            Utveckling a été fondée par deux jeunes entrepeneurs en veille et en évolution constante
+        <div class="wrapper">
+            <h2>[ À PROPOS ]</h2>
+            <p>
+                Utveckling a été fondée par deux jeunes entrepeneurs en veille et en évolution constante
+                
+                dans le domaine des technologies de l’information  de la communication.
             
-            dans le domaine des technologies de l’information  de la communication.
-        
-            Nous sommes une entreprise à taille humaine et nos clients le ressentent dans notre démarche
-         
-            et notre volonté de les accompagner dans toutes les étapes d’un projet, de l’élaboration du cahier des charges à la réalisation.
-        
-            Nous avons pour objectif de fournir à nos clients des projets sur-mesure, 
-            de qualité et optimisés afin de leur garantir un bon retour sur investissement.
-        </p>
-        <a class="button" href="#">EN SAVOIR PLUS</a>
-
+                Nous sommes une entreprise à taille humaine et nos clients le ressentent dans notre démarche
+             
+                et notre volonté de les accompagner dans toutes les étapes d’un projet, de l’élaboration du cahier des charges à la réalisation.
+            
+                Nous avons pour objectif de fournir à nos clients des projets sur-mesure, 
+                de qualité et optimisés afin de leur garantir un bon retour sur investissement.
+            </p>
+            <a class="button" href="a-propos">DÉCOUVRIR NOTRE HISTOIRE</a>
+        </div>
     </section>
 </div>
-<div class="row">
-<section class="home-contacts">
-    <section class="col col-8 home-contact">
+<div class="row contact">
+    <section class="col col-12 home-contact">
         <h2>[ NOUS CONTACTER ]</h2>
-        
     </section>
-</section>
 </div>
+<?php 
+    include 'views/partials/contact-form.php';
+?>

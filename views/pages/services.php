@@ -1,13 +1,16 @@
-<section class="services-intro-section">
-    <div class="services-intro">
-        <h1>
-            [ NOS SERVICES ]
-        </h1>
-        <p class="tags">
-            Vos [ objectifs ] digitaux ont chacun une [ solution ] adaptée dans nos services.
-        </p>
-        <div class="intro-actions">
-            <a class="button-savoir-plus-intro" href="#">DÉCOUVRIR NOS SERVICES</a>
+<!-- Services introduction section -->
+   <section class="head-intro-section process-header-background">
+    <div class="head-intro">
+       <div class="wrapper">
+            <h1>
+                [ SERVICES ]
+            </h1>
+            <p class="under-title processus-description-header">
+                Vos [ objectifs ] digitaux ont chacun une [ solution ] adaptée dans nos services.
+            </p>
+            <div class="intro-actions">
+                <a class="button-savoir-plus-intro" href="#">DÉCOUVRIR NOS SERVICES</a>
+            </div>
         </div>
     </div>
 </section>

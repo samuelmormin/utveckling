@@ -10,6 +10,10 @@ if($q === '' || $q === 'home')
 {
     $page = 'home';
 }
+else if($q === 'a-propos')
+{
+    $page = 'a-propos';
+}
 else if($q === 'services')
 {
     $page = 'services';
@@ -18,17 +22,17 @@ else if($q === 'process')
 {
     $page = 'process';
 }
-else if($q === 'contact')
+else if($q === 'derniers-projets')
 {
-    $page = 'contact';
+    $page = 'derniers-projets';
 }
-else if($q === 'grid')
+else if($q === 'blog')
 {
-    $page = 'grid';
+    $page = 'blog';
 }
-else if($q === 'menu')
+else if($q === 'nous-contacter')
 {
-    $page = 'menu';
+    $page = 'nous-contacter';
 }
 else
 {

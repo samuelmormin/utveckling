@@ -1,4 +1,4 @@
-<div class="menu-container show">
+<div class="menu-container hidden">
     <section class="menu">
         <div class="menu-animation">
             <img src="assets/img/logo_menu.svg" alt="">
