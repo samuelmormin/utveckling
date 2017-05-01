@@ -1,5 +1,11 @@
 <section class="home-intro-section">
     <div class="page-intro">
+        <div class="page-intro-video">
+            <video autoplay="autoplay" loop="loop">
+                <source src="assets/img/BnW.mp4" type="video/mp4" />
+                <source src="assets/img/BnW.webm" type="video/webm" />
+            </video>
+        </div>
         <h1>
             UTVECKLING VOUS ACCOMPAGNE DANS LA
             <br><br>
@@ -49,7 +55,7 @@
 <section class="home-processus">
     <h2>[ NOTRE PROCESSUS DE CRÉATION ]</h2>
     <div class="process_elements">
-        <img src="assets/img/image_processus_creation.png" alt="process_creation">
+        <img src="assets/img/browser_mac_utveckling.png" alt="process_creation">
         <p>Pour vous fournir un site à forte valeur ajoutée nous interprétons vos besoins au travers d’un processus simple pour ensuite déterminer vos axes stratégique et vous proposer des solutions novatrices dans votre projet digital</p>
         <a class="button-savoir-plus" href="#">EN SAVOIR PLUS</a>
     </div>
@@ -108,11 +114,13 @@
 <section class="home-projets">
     <h2>[ NOS DERNIES PROJETS ]</h2>
     <div class="project-block">
-        <img src="assets/img/project.png" alt="projet-1">
+        <img src="assets/img/villavisby_projects_home.png" alt="projet-1">
+        <h2>Villa Visby</h2>
         <a class="button-savoir-plus" href="#">VOIR CE PROJET</a>
     </div>
     <div class="project-block">
-        <img src="assets/img/project.png" alt="projet-1">
+        <img src="assets/img/villavisby_projects_home.png" alt="projet-1">
+        <h2>Villa Visby</h2>
         <a class="button-savoir-plus" href="#">VOIR CE PROJET</a>
     </div>    
 </section>
